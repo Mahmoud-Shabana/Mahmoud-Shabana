@@ -1,84 +1,54 @@
 <div align="center">
+  <img src="./assets/evalquor-profile.svg" alt="Mahmoud Shabana — AI Evaluation and Software Engineering at EVALQUOR" width="100%"/>
 
-<img src="./assets/hero-v2.svg" width="100%" alt="Mahmoud Shabana · EVALQUOR · AI Evaluation & Software Engineering" />
-
-<p>
-  <strong>AI Evaluation</strong> &nbsp; · &nbsp;
-  <strong>Agentic Systems</strong> &nbsp; · &nbsp;
-  <strong>Software Engineering</strong>
-</p>
-
-<p>
-  <a href="./README.ar.md">العربية</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Mahmoud-Shabana?tab=repositories">All repositories</a>
-</p>
-
+  <p><strong>AI Evaluation · Agentic Systems · Software Engineering</strong></p>
+  <p>Research rigor. Reproducible engineering. Useful open source.</p>
+  <p>
+    <a href="https://evalquor-website.vercel.app/"><strong>EVALQUOR website</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/Mahmoud-Shabana?tab=repositories">Public repositories</a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/Mahmoud-Shabana?tab=achievements">GitHub achievements</a>
+  </p>
 </div>
 
 ---
 
-### Engineering with evidence.
+### About
 
-I'm **Mahmoud Shabana**, a software engineer focused on **LLM evaluation, coding-agent reliability, reproducible benchmarks, and developer tools**. I work across research and implementation: specifying hard problems, designing measurable tests, building systems, and documenting what has *actually* been verified.
+I’m **Mahmoud Shabana**, a software engineer and AI evaluation practitioner working on **reliable coding agents, LLM evaluation, reproducible benchmarks, and developer tools**.
 
-I'm also developing **EVALQUOR**, a project focused on expert-led AI evaluation, benchmarking, and practical software tooling.
+I’m building **[EVALQUOR](https://evalquor-website.vercel.app/)** around a simple idea: **Human Expertise. Better AI.** My work combines research-oriented evaluation with practical implementation, measurable checks, and clear documentation.
 
-**My approach:** define the failure mode → build an independent test → measure the result → improve the system.
+### Selected engineering work
 
-### Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Mahmoud-Shabana/voxrubric"><img src="./assets/voxrubric.svg" alt="VoxRubric — AI evaluation project" width="100%" /></a>
-<br/><strong><a href="https://github.com/Mahmoud-Shabana/voxrubric">VoxRubric</a></strong> · <em>Alpha</em>
-<p>Evidence-grounded evaluation, regression testing and benchmarking for AI interview and voice agents, with Arabic and English support.</p>
-<sub>Python · Evaluation · Regression Tests</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Mahmoud-Shabana/PatchProof-AI-Risk-Adaptive-Verification-for-Coding-Agents"><img src="./assets/patchproof.svg" alt="PatchProof AI — verification research project" width="100%" /></a>
-<br/><strong><a href="https://github.com/Mahmoud-Shabana/PatchProof-AI-Risk-Adaptive-Verification-for-Coding-Agents">PatchProof AI</a></strong> · <em>Research project</em>
-<p>Risk-adaptive verification for code produced by AI agents. Focused on reproducible experiments and evidence-based patch decisions.</p>
-<sub>Python · Coding Agents · Verification</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Mahmoud-Shabana/breakmyapp"><img src="./assets/breakmyapp.svg" alt="BreakMyApp — developer-quality tool" width="100%" /></a>
-<br/><strong><a href="https://github.com/Mahmoud-Shabana/breakmyapp">BreakMyApp</a></strong> · <em>Developer preview</em>
-<p>A local-first Chromium website scanner for responsive overflow, runtime errors, failed resources and inspectable evidence.</p>
-<sub>TypeScript · Playwright · Web QA</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Mahmoud-Shabana/typeforge-studio"><img src="./assets/typeforge.svg" alt="TypeForge Studio — desktop software project" width="100%" /></a>
-<br/><strong><a href="https://github.com/Mahmoud-Shabana/typeforge-studio">TypeForge Studio</a></strong> · <em>Windows-first project</em>
-<p>A local desktop typing workstation featuring Unicode input, profiles, hotkeys and reusable snippets. See the repo for validation status.</p>
-<sub>Python · Windows · Desktop Tooling</sub>
-</td>
-</tr>
-</table>
-
-**Also exploring systems engineering:** [HP ZBook Fury 17 G7 / OpenCore Sequoia](https://github.com/Mahmoud-Shabana/HP-ZBook-Fury-17-G7-OpenCore-Sequoia) — an evidence-led compatibility and troubleshooting journal.
-
-> **Project maturity matters.** Some projects above are research prototypes or developer previews, not production releases. Each repository documents its verified features and limitations.
-
-### Areas of focus
-
-| Research & evaluation | Engineering & reliability | Developer experience |
+| Project | What it does | Status |
 | :--- | :--- | :--- |
-| LLM evaluation and rubrics | Automated and regression testing | Local-first applications |
-| Coding-agent benchmarks | Risk-aware verification | Reproducible environments |
-| Arabic / English assessment | Containers and CI workflows | Diagnostics and documentation |
+| **[VoxRubric](https://github.com/Mahmoud-Shabana/voxrubric)** | Evidence-grounded benchmarks and regression evaluation for AI interview and voice agents, with Arabic/English support | Alpha |
+| **[PatchProof AI](https://github.com/Mahmoud-Shabana/PatchProof-AI-Risk-Adaptive-Verification-for-Coding-Agents)** | Risk-adaptive verification for AI-written software patches | Research project |
+| **[BreakMyApp](https://github.com/Mahmoud-Shabana/breakmyapp)** | Local-first website quality scanner with browser-captured evidence | Developer preview |
+| **[TypeForge Studio](https://github.com/Mahmoud-Shabana/typeforge-studio)** | Local Windows typing workstation with Unicode workflows and reusable snippets | Windows-first project |
 
-### Tools I use
+Also documenting practical systems research in **[HP ZBook Fury 17 G7 / OpenCore Sequoia](https://github.com/Mahmoud-Shabana/HP-ZBook-Fury-17-G7-OpenCore-Sequoia)**.
 
-`Python` · `TypeScript` · `JavaScript` · `Docker` · `Playwright` · `Git` · `GitHub Actions` · `Linux` · `SQL`
+<sub>Each repository documents its current maturity and verified capabilities. Research prototypes and previews are not represented as production releases.</sub>
 
-### Collaboration
+### What I focus on
 
-I'm interested in **AI evaluation, agentic software, benchmark engineering and open-source tooling**. For project-specific questions or collaboration, please use the relevant repository's issues.
+| AI evaluation | Software reliability | Applied development |
+| :--- | :--- | :--- |
+| LLM & agent benchmarks | Regression and integration tests | Python & TypeScript |
+| Evaluation rubrics | Risk-aware verification | Docker & CI |
+| Expert-led review | Reproducible experiments | Developer tooling |
+
+### Engineering stack
+
+`Python` · `TypeScript` · `JavaScript` · `Docker` · `GitHub Actions` · `Playwright` · `Git` · `Linux` · `SQL`
+
+---
 
 <div align="center">
-  <p><strong>Build what can be tested. Document what can be reproduced.</strong></p>
-  <sub>EVALQUOR · Riyadh, Saudi Arabia · Arabic & English</sub>
+  <strong>Human Expertise. Better AI.</strong>
+  <p><a href="https://evalquor-website.vercel.app/">EVALQUOR</a> · Riyadh, Saudi Arabia</p>
+  <sub>Build evidence. Measure outcomes. Improve systems.</sub>
 </div>

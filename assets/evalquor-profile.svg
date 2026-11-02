@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 405" width="1280" height="405" role="img" aria-label="Mahmoud Shabana. AI evaluation, software engineering, and EVALQUOR.">
+<defs>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#9CA89B" opacity=".21"/></pattern>
+</defs>
+<rect width="1280" height="405" rx="13" fill="#111411"/>
+<path d="M0 5H1280" stroke="#D5FB74" stroke-width="10"/>
+<rect x="898" y="42" width="326" height="318" rx="18" fill="#1B251E" stroke="#3B4A3C" stroke-width="1.4"/>
+<rect x="922" y="62" width="278" height="271" rx="11" fill="url(#dots)"/>
+<g transform="translate(979 113) scale(1.19)">
+ <path d="M18 19H151 M18 19V171 M18 95H132 M18 171H151" fill="none" stroke="#D5FB74" stroke-width="22" stroke-linecap="square"/>
+ <circle cx="166" cy="19" r="11" fill="#F4F6F0"/><circle cx="147" cy="95" r="11" fill="#F4F6F0"/><circle cx="166" cy="171" r="11" fill="#F4F6F0"/>
+</g>
+<text x="1060" y="91" text-anchor="middle" fill="#F4F6F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" letter-spacing="3">EVALQUOR</text>
+<text x="1060" y="345" text-anchor="middle" fill="#9CA89B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.9">HUMAN EXPERTISE. BETTER AI.</text>
+<text x="66" y="86" fill="#D5FB74" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3.5">EVALUATION  /  ENGINEERING  /  RESEARCH</text>
+<path d="M67 110H106" stroke="#D5FB74" stroke-width="5"/>
+<text x="62" y="201" fill="#F4F6F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="75" font-weight="750" letter-spacing="-3">Mahmoud</text>
+<text x="62" y="281" fill="#F4F6F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="75" font-weight="750" letter-spacing="-3">Shabana<tspan fill="#D5FB74">.</tspan></text>
+<text x="66" y="334" fill="#9CA89B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Building reliable systems for better AI.</text>
+<path d="M67 372H844" stroke="#2A3A2E" stroke-width="2"/>
+<text x="66" y="392" fill="#9CA89B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2.5">RIYADH, SAUDI ARABIA</text>
+</svg>
