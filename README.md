@@ -70,13 +70,9 @@ My approach: **clear requirements → measurable tests → careful implementatio
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
 </div>
 
-### GitHub activity
+### Activity & collaboration
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Shabana&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=66d9ef&icon_color=66d9ef" alt="Public GitHub activity and repository statistics" />
-</div>
-
-<sub>Statistics are provided by a third-party widget and may be temporarily unavailable. GitHub's own contribution history is shown below the profile README.</sub>
+GitHub's built-in contribution calendar and public activity are displayed directly below this README. For code, documentation and ongoing experiments, browse the [public repositories](https://github.com/Mahmoud-Shabana?tab=repositories) and their issue trackers.
 
 ---
 
