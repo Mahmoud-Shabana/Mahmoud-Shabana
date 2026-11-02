@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 390" width="1280" height="390" role="img" aria-label="Mahmoud Shabana — AI evaluation, agentic systems and software engineering">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset=".57" stop-color="#0e1a32"/><stop offset="1" stop-color="#132747"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38dbc7"/><stop offset=".54" stop-color="#5baff9"/><stop offset="1" stop-color="#9a83f4"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#5fbbec" stop-opacity=".17"/><stop offset="1" stop-color="#5fbbec" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#adcee9" stroke-opacity=".062" stroke-width="1"/></pattern>
+</defs>
+<rect width="1280" height="390" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="390" rx="20" fill="url(#grid)"/>
+<circle cx="1008" cy="205" r="330" fill="url(#light)"/>
+<rect x="0" y="0" width="1280" height="7" rx="3" fill="url(#line)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="72" y="51" width="8" height="18" rx="4" fill="#4ce0ca"/>
+<text x="96" y="66" font-size="15" font-weight="600" letter-spacing="3.1" fill="#80c9d7">RESEARCH-DRIVEN ENGINEERING</text>
+<text x="70" y="171" font-size="67" font-weight="750" letter-spacing="-1.8" fill="#f7faff">Mahmoud</text>
+<text x="70" y="239" font-size="67" font-weight="750" letter-spacing="-1.8" fill="#f7faff">Shabana<tspan fill="#53dbc8">.</tspan></text>
+<rect x="72" y="261" width="466" height="2.8" rx="1.4" fill="url(#line)"/>
+<text x="72" y="300" font-size="22" fill="#d3e4f6">AI Evaluation  /  Software Engineering</text>
+<text x="73" y="343" font-size="15" letter-spacing="1.9" fill="#91accb">Riyadh, Saudi Arabia</text>
+<text x="1020" y="69" text-anchor="middle" font-size="22" font-weight="800" letter-spacing="5" fill="#e4f6fb">EVALQUOR</text>
+<text x="1020" y="93" text-anchor="middle" font-size="11" letter-spacing="2.9" fill="#80d9d4">BUILD · TEST · VERIFY</text>
+</g>
+<g transform="translate(1015 233)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle r="126" stroke="#6f94ba" stroke-opacity=".19" stroke-width="1.5"/>
+<circle r="98" stroke="#76d5ef" stroke-opacity=".26" stroke-width="1.3" stroke-dasharray="4 10"/>
+<circle r="66" stroke="#6ea8d6" stroke-opacity=".27" stroke-width="1.8"/>
+<path d="M-131 27C-65-72 75-74 143 27" stroke="#39d9c5" stroke-opacity=".64" stroke-width="3"/>
+<path d="M-113 65C-6 124 96 81 129-13" stroke="#789cfa" stroke-opacity=".75" stroke-width="2.5"/>
+<path d="M-18-74 0-56 18-74M-18 72 0 88 18 72" stroke="#78bddc" stroke-opacity=".75" stroke-width="2"/>
+<path d="M-47-41H42L59-23V34L37 55H-44L-61 35V-22Z" stroke="#67e4db" stroke-width="5"/>
+<path d="M27-20H-21V20H27M-21 0H20" stroke="#9dd9f8" stroke-width="6"/>
+<circle cx="-126" cy="27" r="7" fill="#4de7cc" stroke="none"/>
+<circle cx="127" cy="-12" r="7" fill="#8aabff" stroke="none"/>
+<circle cx="0" cy="-98" r="4.5" fill="#82dbeb" stroke="none"/>
+</g>
+</svg>
