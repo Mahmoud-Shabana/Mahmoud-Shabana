@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 236" width="660" height="236" role="img" aria-label="PatchProof AI: Verify the risky changes.">
+<defs><pattern id="mesh" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#9CA89B" stroke-opacity=".09" stroke-width="1"/></pattern></defs>
+<rect width="660" height="236" rx="12" fill="#111411"/>
+<rect width="660" height="5" fill="#D5FB74"/>
+<rect x="403" y="24" width="236" height="188" rx="12" fill="#19221B"/>
+<rect x="403" y="24" width="236" height="188" rx="12" fill="url(#mesh)"/>
+<text x="34" y="55" fill="#D5FB74" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">02   /   AGENT RELIABILITY</text>
+<text x="33" y="112" fill="#F4F6F0" font-family="Inter,Arial,sans-serif" font-size="39" font-weight="750" letter-spacing="-1.4">PatchProof AI</text>
+<text x="34" y="149" fill="#C0CABC" font-family="Inter,Arial,sans-serif" font-size="19">Verify the risky changes.</text>
+<path d="M34 178h315" stroke="#2A3A2E" stroke-width="2"/>
+<text x="34" y="208" fill="#9CA89B" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">PYTHON   /   CODE VERIFICATION</text>
+<path d="M518 43 587 67v54c0 36-30 62-69 77-39-15-69-41-69-77V67z" fill="#2A3A2E" stroke="#D5FB74" stroke-width="4"/><path d="m488 120 22 21 44-52" fill="none" stroke="#D5FB74" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
