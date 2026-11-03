@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 236" width="660" height="236" role="img" aria-label="TypeForge Studio: Local-first text workflows.">
+<defs><pattern id="mesh" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#9CA89B" stroke-opacity=".09" stroke-width="1"/></pattern></defs>
+<rect width="660" height="236" rx="12" fill="#111411"/>
+<rect width="660" height="5" fill="#D5FB74"/>
+<rect x="403" y="24" width="236" height="188" rx="12" fill="#19221B"/>
+<rect x="403" y="24" width="236" height="188" rx="12" fill="url(#mesh)"/>
+<text x="34" y="55" fill="#D5FB74" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">04   /   DESKTOP TOOLING</text>
+<text x="33" y="112" fill="#F4F6F0" font-family="Inter,Arial,sans-serif" font-size="32" font-weight="750" letter-spacing="-1.4">TypeForge Studio</text>
+<text x="34" y="149" fill="#C0CABC" font-family="Inter,Arial,sans-serif" font-size="19">Local-first text workflows.</text>
+<path d="M34 178h315" stroke="#2A3A2E" stroke-width="2"/>
+<text x="34" y="208" fill="#9CA89B" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.3">PYTHON   /   WINDOWS</text>
+<rect x="426" y="65" width="190" height="111" rx="12" fill="#1A251C" stroke="#D5FB74" stroke-width="3"/><g fill="#2A3A2E" stroke="#9CA89B" stroke-width="1.2"><rect x="440" y="79" width="31" height="19" rx="4"/><rect x="482" y="79" width="31" height="19" rx="4"/><rect x="524" y="79" width="31" height="19" rx="4"/><rect x="566" y="79" width="31" height="19" rx="4"/><rect x="440" y="108" width="31" height="19" rx="4"/><rect x="482" y="108" width="31" height="19" rx="4"/><rect x="524" y="108" width="31" height="19" rx="4"/><rect x="566" y="108" width="31" height="19" rx="4"/><rect x="440" y="137" width="31" height="19" rx="4"/><rect x="482" y="137" width="31" height="19" rx="4"/><rect x="524" y="137" width="31" height="19" rx="4"/><rect x="566" y="137" width="31" height="19" rx="4"/></g><rect x="476" y="142" width="89" height="20" rx="4" fill="#D5FB74"/>
+</svg>
